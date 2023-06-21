@@ -1,7 +1,5 @@
 package com.bridgelabz.employeewage;
 
-import java.sql.SQLOutput;
-
 public class Employeewage {
     public static final int IS_FULL_TIME = 2;
     public static final int IS_PART_TIME = 1;
