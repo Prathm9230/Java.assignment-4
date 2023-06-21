@@ -12,7 +12,7 @@ public class Employeewage {
             int empcheck = (int)Math.floor(Math.random() * 10) % 3;
             switch (empcheck) {
                 case IS_FULL_TIME:
-                    emphrs = 16;
+                    emphrs = 12;
                     break;
                 case IS_PART_TIME:
                     emphrs = 8;
