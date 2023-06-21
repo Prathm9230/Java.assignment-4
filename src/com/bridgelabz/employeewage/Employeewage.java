@@ -10,7 +10,7 @@ public class Employeewage {
         switch (empcheck)
         {
              case IS_FULL_TIME:
-                emphrs=16;
+                emphrs=12;
                 break;
             case IS_PART_TIME:
                 emphrs=8;
