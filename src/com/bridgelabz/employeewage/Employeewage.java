@@ -10,7 +10,7 @@ public class Employeewage {
         int emphrs=0;
         double empcheck = Math.floor(Math.random() * 10) % 3;//here we have added part time so,taken 3.
         if (empcheck == IS_FULL_TIME) {
-               emphrs=16;
+               emphrs=12;
           }
         else if(empcheck==IS_PART_TIME)
         {
