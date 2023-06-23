@@ -37,7 +37,6 @@ public class Employeewage {
     public void AddPartTimeEmp()
     {
         System.out.println("This is UC3:");
-        int emphrs=0;
         double empcheck = Math.floor(Math.random() * 10) % 3;//here we have added part time so,taken 3.
         if (empcheck == IS_FULL_TIME) {
             emphrs=12;
